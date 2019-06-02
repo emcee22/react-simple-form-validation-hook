@@ -1,3 +1,9 @@
+Playing with react hooks and created a simple `useFormValidation` that can be used to manage your forms: `src/hooks/useFormValidation.js`;
+
+It can be used with custom validators, interdependent input forms, built in validators. It works for all form elements.
+
+Example of usage can be found here: `src/components/form/`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
